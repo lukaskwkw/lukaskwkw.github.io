@@ -1,0 +1,1489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"du",
+				"duplexer"
+			],
+			[
+				"dup",
+				"duplexer2"
+			],
+			[
+				"proce",
+				"process.stdin"
+			],
+			[
+				"thr",
+				"through"
+			],
+			[
+				"http",
+				"http〔variable〕"
+			],
+			[
+				"processstd",
+				"process.stdin"
+			],
+			[
+				"processs",
+				"process.stdin"
+			],
+			[
+				"enc",
+				"encoding"
+			],
+			[
+				"toU",
+				"toUpperCase()	String"
+			],
+			[
+				"to",
+				"toLowerCase〔function〕"
+			],
+			[
+				"process",
+				"process.stdin"
+			],
+			[
+				"createrea",
+				"fs.createReadStream"
+			],
+			[
+				"nomi",
+				"nominated"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"classL",
+				"className	Element"
+			],
+			[
+				"chid",
+				"childNodes"
+			],
+			[
+				"iter",
+				"iterator"
+			],
+			[
+				"ite",
+				"iterator"
+			],
+			[
+				"ima",
+				"imagesSrc"
+			],
+			[
+				"getatt",
+				"getAttribute(${0:attributeName})	Element"
+			],
+			[
+				"thi",
+				"this〔keyword〕"
+			],
+			[
+				"repca",
+				"replaceChild"
+			],
+			[
+				"paret",
+				"parentElement	Node"
+			],
+			[
+				"queryse",
+				"querySelector(${0:selectors})	Element"
+			],
+			[
+				"spinn",
+				"spinnerNode"
+			],
+			[
+				"first",
+				"firstChild	Node"
+			],
+			[
+				"slider",
+				"sliderDOM〔variable〕"
+			],
+			[
+				"slid",
+				"sliderId"
+			],
+			[
+				"bs3butt",
+				"bs3-button:success	bs3-button-success"
+			],
+			[
+				"obj",
+				"obj_Recipe〔variable〕"
+			],
+			[
+				"sho",
+				"showModal"
+			],
+			[
+				"my",
+				"my_modal"
+			],
+			[
+				"url",
+				"urlInputs〔variable〕"
+			],
+			[
+				"ed",
+				"editObj"
+			],
+			[
+				"edi",
+				"editRecipe"
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"close",
+				"closeModal"
+			],
+			[
+				"oncli",
+				"onclick"
+			],
+			[
+				"nex",
+				"nextSibling"
+			],
+			[
+				"wrapp",
+				"wrapper_modal"
+			],
+			[
+				"data",
+				"dataId"
+			],
+			[
+				"att",
+				"attributes	Element"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"cli",
+				"click	Event"
+			],
+			[
+				"onc",
+				"onclick"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"loca",
+				"localStorage〔variable〕"
+			],
+			[
+				"ob",
+				"obj_Recipe"
+			],
+			[
+				"pro",
+				"props	React: this.props"
+			],
+			[
+				"o",
+				"obj_Recipe"
+			],
+			[
+				"pare",
+				"parentElement"
+			],
+			[
+				"cur",
+				"currentTarget"
+			],
+			[
+				"ex",
+				"extend	@extend"
+			],
+			[
+				"render",
+				"renderInputs"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"di",
+				"d:i	display:inline"
+			],
+			[
+				"ma",
+				"m:a	margin:auto"
+			],
+			[
+				"mw",
+				"miw	min-width"
+			],
+			[
+				"querse",
+				"querySelectorAll"
+			],
+			[
+				"he",
+				"height	.height()"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"backgroundColor",
+				"backgroundColor = 'transparent'	Style CSS"
+			],
+			[
+				"class",
+				"classlist"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"dispal",
+				"display"
+			],
+			[
+				"plac",
+				"placeholder"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"slide",
+				"slideUp	.slideUp()"
+			],
+			[
+				"bi",
+				"bind"
+			],
+			[
+				"keys",
+				"keys(${0:Object})	Object"
+			],
+			[
+				"rece",
+				"recentOrder"
+			],
+			[
+				"this",
+				"this"
+			],
+			[
+				"rend",
+				"renderMarkdown"
+			],
+			[
+				"rcc",
+				"rcc	React: class component"
+			],
+			[
+				"tar",
+				"target	Event"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"map",
+				"map(${0:callback})	Array"
+			],
+			[
+				"Comme",
+				"CommentForm"
+			],
+			[
+				"Comm",
+				"CommentList"
+			],
+			[
+				"exte",
+				"extends"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"Reac",
+				"ReactDOM"
+			],
+			[
+				"rc",
+				"rcc	React: legacy component"
+			],
+			[
+				"expo",
+				"export:function	ES6 Module Export Function"
+			],
+			[
+				"react",
+				"react_wrap"
+			],
+			[
+				"cw",
+				"cwd"
+			],
+			[
+				"erro",
+				"errorThrown〔argument〕"
+			],
+			[
+				"max",
+				"maxSize"
+			],
+			[
+				"sub",
+				"submit	.submit()"
+			],
+			[
+				"sear",
+				"searchHandler"
+			],
+			[
+				"Qu",
+				"Queries"
+			],
+			[
+				"STATUS",
+				"response.statusCode"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"firs",
+				"firstArg〔variable〕"
+			],
+			[
+				"mon",
+				"mongo"
+			],
+			[
+				"docu",
+				"documents〔argument〕"
+			],
+			[
+				"arg",
+				"argv[3"
+			],
+			[
+				"crypto",
+				"crypto.createHash"
+			],
+			[
+				"c",
+				"c	color"
+			],
+			[
+				"bod",
+				"bodyparser"
+			],
+			[
+				"exp",
+				"express"
+			],
+			[
+				"path",
+				"pathname	URLUtils"
+			],
+			[
+				"getm",
+				"getMinutes〔function〕"
+			],
+			[
+				"get",
+				"getHours〔function〕"
+			],
+			[
+				"cre",
+				"createServer"
+			],
+			[
+				"crearead",
+				"fs.createReadStream"
+			],
+			[
+				"Getm",
+				"getMinutes()	Date"
+			],
+			[
+				"getda",
+				"getDay()	Date"
+			],
+			[
+				"listen",
+				"server.listen"
+			],
+			[
+				"socket",
+				"socket.end"
+			],
+			[
+				"typ",
+				"typeof〔keyword〕"
+			],
+			[
+				"response",
+				"response.addTrailers"
+			],
+			[
+				"processar",
+				"process.argv"
+			],
+			[
+				"req",
+				"require〔function〕"
+			],
+			[
+				"call",
+				"callback〔argument〕"
+			],
+			[
+				"cal",
+				"callback〔argument〕"
+			],
+			[
+				"modeu",
+				"moduleexports	module.exports"
+			],
+			[
+				"ext",
+				"extIndex〔variable〕"
+			],
+			[
+				"lasti",
+				"lastIndexOf(${0:searchValue})	String"
+			],
+			[
+				"list",
+				"list〔argument〕"
+			],
+			[
+				"proc",
+				"process"
+			],
+			[
+				"proces",
+				"process.argv"
+			],
+			[
+				"readF",
+				"fs.readFile"
+			],
+			[
+				"procesa",
+				"process.argv"
+			],
+			[
+				"server",
+				"http.createServer"
+			],
+			[
+				"htt",
+				"http"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8574,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/node.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"es6",
+				"Snippet: ES6 Reflect Construct"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"progress",
+				"Snippet: ZURB Foundation 5 Progress Bar"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"es6con",
+				"Snippet: ES6 Reflect Construct"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"react",
+				"Snippet: React: legacy component"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"snippet",
+				"Snippet: data"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"babel sn",
+				"Babel Transform"
+			],
+			[
+				"togg",
+				"View: Toggle Tabs"
+			],
+			[
+				"reni",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syntajs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"tota",
+				"View: Toggle Tabs"
+			],
+			[
+				"to",
+				"View: Toggle Menu"
+			],
+			[
+				"radius",
+				"Snippet: border-radius"
+			],
+			[
+				"style",
+				"Snippet: font-style"
+			],
+			[
+				"bordertop",
+				"Snippet: border-top-right-image"
+			],
+			[
+				"borderradius",
+				"Snippet: border-top-left-radius"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Make Warnings Passive"
+			],
+			[
+				"bordertople",
+				"Snippet: border-top-left-radius"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Don't Make Warnings Passive"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"borderbottom",
+				"Snippet: border-bottom+"
+			],
+			[
+				"char",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"mard",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"docb",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"lista",
+				"Package Control: List Packages"
+			],
+			[
+				"default",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setsy php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"linter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"jshin",
+				"JSHint: Set Plugin Options"
+			],
+			[
+				"jsh",
+				"JSHint: Set Keyboard Shortcuts"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"sa",
+				"File: Save All"
+			],
+			[
+				"packal",
+				"Package Control: List Packages"
+			],
+			[
+				"t",
+				"View: Toggle Tabs"
+			],
+			[
+				"radiu",
+				"Snippet: border-radius"
+			],
+			[
+				"tog",
+				"View: Toggle Tabs"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"docu",
+				"Snippet: document.ready - $(function(){})"
+			],
+			[
+				"toggle me",
+				"View: Toggle Menu"
+			],
+			[
+				"media",
+				"Snippet: bs3-media-object"
+			],
+			[
+				"textsi",
+				"Snippet: text-height:font-size"
+			],
+			[
+				"posi",
+				"Snippet: position:absolute"
+			],
+			[
+				"border-box",
+				"Snippet: box-sizing:border-box"
+			],
+			[
+				"box-",
+				"Snippet: box-sizing"
+			],
+			[
+				"bootstra",
+				"Snippet: Bootstrap CSS"
+			],
+			[
+				"toggle",
+				"View: Toggle Tabs"
+			],
+			[
+				"border-ra",
+				"Snippet: border-radius"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"tabs ",
+				"View: Toggle Tabs"
+			],
+			[
+				"build s",
+				"Build: New Build System"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"node",
+				"Nodejs::Build Completions"
+			],
+			[
+				"packa li",
+				"Package Control: List Packages"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"fuzzy",
+				"FuzzyFilePath: Show current settings"
+			],
+			[
+				"fuz",
+				"FuzzyFilePath: Show info"
+			],
+			[
+				"fuzy",
+				"FuzzyFilePath: Set project directory"
+			],
+			[
+				"previ	",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 421.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/usr/lib/node_modules/stream-adventure/problems/duplexer/solution.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/11.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/12.js",
+		"/usr/lib/node_modules/stream-adventure/problems/duplexer/command_OLD.js",
+		"/usr/lib/node_modules/stream-adventure/problems/duplexer/command.js",
+		"/usr/lib/node_modules/stream-adventure/problems/duplexer/problem.txt",
+		"/home/lk/Develop/nodeschool/stream-adventures/1.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/package.json",
+		"/home/lk/Develop/nodeschool/stream-adventures/7alt.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/10alt.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/10.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/9.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/8.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/7.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/6.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/5.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/2.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/3.js",
+		"/home/lk/Develop/nodeschool/stream-adventures/4.js",
+		"/home/lk/Dokumenty/UEK/semmm3 nie wyslanie/Hiszpański/dialog1.txt",
+		"/home/lk/Dokumenty/UEK/semmm3 nie wyslanie/Hiszpański/dialog2 poprawione.txt",
+		"/home/lk/Dokumenty/UEK/semmm3 nie wyslanie/Hiszpański/dialog.txt",
+		"/home/lk/Develop/nodeschool/stream-adventures/4b.js",
+		"/home/lk/Develop/web/recipe-box/package.json",
+		"/home/lk/Develop/es6-tutorial/package.json",
+		"/home/lk/Develop/nodeschool/stream-adventures/webpack.config.js",
+		"/home/lk/Develop/es6-tutorial/webpack.config.js",
+		"/home/lk/Develop/nodeschool/Scope Chains & Closures/1.js",
+		"/home/lk/Dokumenty/Mongo Uni/week2/dump/video/reviews.bson",
+		"/home/lk/Dokumenty/Mongo Uni/intro_to_creating_and_reading_documents/intro_to_creating_and_reading_documents/intro_to_creating_and_reading_documents/movies_inserts.js",
+		"/home/lk/Develop/web/new-portfolio/public/vendors/css/bootstrap.min.css",
+		"/home/lk/Develop/web/new-portfolio/public/vendors/css/bootstrap.css",
+		"/home/lk/Develop/web/new-portfolio/public/vendors/config.json",
+		"/home/lk/Develop/web/new-portfolio/public/js/bundle.js",
+		"/home/lk/Develop/web/new-portfolio/index.html",
+		"/home/lk/Develop/web/recipe-box/public/css/NV- Eula.txt",
+		"/home/lk/Develop/web/recipe-box/public/js/bundle.min.js",
+		"/home/lk/Develop/web/recipe-box/.gitignore",
+		"/home/lk/.config/sublime-text-3/Packages/Babel Snippets/react_componentDidMount_(class).sublime-snippet",
+		"/home/lk/.config/sublime-text-3/Packages/Babel Snippets/react_componentDidUpdate.sublime-snippet",
+		"/home/lk/Develop/web/recipe-box/public/css/index.css",
+		"/home/lk/Dokumenty/Mongo Uni/HOMEWORK 1_3/hw1-3/package.json",
+		"/home/lk/Dokumenty/Mongo Uni/HOMEWORK 1_2/hw1-2/app.js",
+		"/home/lk/Dokumenty/Mongo Uni/homework_1_2/hw1-2/hw1-2/app.js",
+		"/home/lk/Dokumenty/Mongo Uni/HOMEWORK 1_2/hw1-2/package.json",
+		"/home/lk/Dokumenty/Mongo Uni/homework_1_1/hw1-1/hw1-1/.DS_Store",
+		"/home/lk/Develop/web/recipe-box/public/js/bundle.js",
+		"/home/lk/Develop/web/image-search/server.js",
+		"/home/lk/.cache/.fr-y1SSl7/ThisIsDallas-Simple-Grid-8bf0f8e/simplegrid.css",
+		"/home/lk/.config/sublime-text-3/Packages/Babel Snippets/react_component_class.sublime-snippet",
+		"/home/lk/Develop/web/markdown_previewer/comments.json",
+		"/home/lk/Develop/web/markdown_previewer/base.css",
+		"/home/lk/Develop/web/markdown_previewer/server.js",
+		"/home/lk/Develop/web/markdown_previewer/index.css",
+		"/home/lk/Develop/web/markdown_previewer/package.json",
+		"/home/lk/Develop/web/markdown_previewer/_main.js",
+		"/home/lk/Develop/web/markdown_previewer/bundle.js",
+		"/home/lk/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/lk/.config/sublime-text-3/Packages/Babel Snippets/react_component_legacy.sublime-snippet",
+		"/home/lk/Develop/web/markdown_previewer/react.min.js",
+		"/home/lk/Develop/ESLINT MY NEW BASIC CONFIG",
+		"/home/lk/Develop/learning react/react-0.14.5/.eslintrc.json",
+		"/home/lk/Develop/es6-tutorial/js/mortgage.js",
+		"/home/lk/Develop/es6-tutorial/.eslintrc.json",
+		"/home/lk/Develop/es6-tutorial/js/main_.js",
+		"/home/lk/Develop/es6-tutorial/js/main.js",
+		"/home/lk/Develop/es6-tutorial/build/main.bundle.js",
+		"/home/lk/Develop/ESLINT MY BASIC CONFIG",
+		"/home/lk/.config/sublime-text-3/Packages/Babel Snippets/react_render.sublime-snippet",
+		"/home/lk/Develop/es6-tutorial/index.html",
+		"/home/lk/.config/sublime-text-3/Packages/Babel Snippets/react_componentDidMount.sublime-snippet",
+		"/home/lk/.config/sublime-text-3/Packages/Babel Snippets/package-metadata.json",
+		"/home/lk/.config/sublime-text-3/Packages/Babel Snippets/react_this-props.sublime-snippet",
+		"/home/lk/.config/sublime-text-3/Packages/Babel Snippets/README.md",
+		"/home/lk/.config/sublime-text-3/Packages/Babel Snippets/.no-sublime-package",
+		"/home/lk/Develop/learning react/react-0.14.5/examples/jquery-bootstrap/index.html",
+		"/home/lk/Develop/learning react/react-0.14.5/examples/basic-jsx-harmony/index.html",
+		"/home/lk/Develop/learning react/react-0.14.5/examples/jquery-bootstrap/js/app.js",
+		"/home/lk/Develop/learning react/react-0.14.5/examples/webcomponents/index.html",
+		"/home/lk/Develop/learning react/react-0.14.5/examples/basic-jsx/index.html",
+		"/home/lk/Develop/learning react/react-0.14.5/examples/basic-commonjs/index.html",
+		"/home/lk/Develop/learning react/react-0.14.5/examples/basic-jsx-external/index.html",
+		"/home/lk/Develop/learning react/react-0.14.5/examples/basic-jsx-external/example.js",
+		"/home/lk/Develop/learning react/react-0.14.5/examples/basic-click-counter/index.html",
+		"/home/lk/Develop/learning react/react-0.14.5/examples/basic/index.html",
+		"/usr/lib/node_modules/eslint-plugin-html/package.json",
+		"/usr/lib/node_modules/eslint-plugin-html/.eslintrc.json",
+		"/usr/lib/node_modules/eslint-plugin-html/.eslintrc.js",
+		"/usr/lib/node_modules/eslint-plugin-html/.eslintrc",
+		"/home/lk/Develop/learning react/react-0.14.5/.eslintrc",
+		"/home/lk/Develop/learning react/vanilla.js",
+		"/usr/lib/node_modules/eslint-plugin-html/src/extract.js",
+		"/home/lk/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/lk/Develop/learning react/react-0.14.5/examples/quadratic/example.js",
+		"/usr/lib/node_modules/eslint-plugin-html/src/index.js",
+		"/home/lk/Develop/web/file-metadata-ms/uploads/important",
+		"/home/lk/Develop/web/file-metadata-ms/.gitignore",
+		"/home/lk/Develop/web/node-js-getting-started/app.json",
+		"/home/lk/Develop/web/file-md-ms/app.js",
+		"/home/lk/Develop/web/file-md-ms/package.json",
+		"/home/lk/Develop/web/image-search/package.json",
+		"/home/lk/Develop/web/image-search/app/controllers/search.server.js",
+		"/home/lk/Develop/web/image-search/.env",
+		"/home/lk/Develop/web/image-search/.eslintrc",
+		"/home/lk/Develop/web/voteApp/package.json",
+		"/home/lk/Develop/web/node-js-getting-started/package.json",
+		"/home/lk/Develop/web/node-js-getting-started/.git/config",
+		"/home/lk/Develop/web/node-js-getting-started/index.js",
+		"/home/lk/Develop/web/node-js-getting-started/.gitignore",
+		"/home/lk/Develop/web/voteApp/app/controllers/clickHandler.server.js",
+		"/home/lk/Develop/web/voteApp/app/controllers/userController.client.js",
+		"/home/lk/Develop/web/voteApp/public/profile.html",
+		"/home/lk/Develop/web/voteApp/app/config/passport.js",
+		"/home/lk/Develop/web/voteApp/app/routes/index.js",
+		"/home/lk/Develop/web/voteApp/public/index.html",
+		"/home/lk/Develop/web/voteApp/app/controllers/clickController.client.js",
+		"/home/lk/Develop/web/voteApp/app/models/users.js",
+		"/home/lk/Develop/web/voteApp/app/common/ajax-functions.js",
+		"/home/lk/Develop/web/voteApp/.env",
+		"/home/lk/Develop/web/voteApp/app/config/auth.js",
+		"/home/lk/Develop/web/learn_mongo/p1.js",
+		"/home/lk/Develop/web/voteApp/node_modules/mongoose/website.js",
+		"/home/lk/Develop/web/voteApp/node_modules/mongodb/package.json",
+		"/home/lk/Develop/web/voteApp/.gitignore",
+		"/home/lk/Develop/web/voteApp/README.md",
+		"/home/lk/Develop/web/learn_mongo/p2.js",
+		"/home/lk/Develop/web/learn_mongo/output.json",
+		"/home/lk/Develop/web/learn_mongo/p7.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"null",
+			"arg",
+			"\\n",
+			"toString",
+			"public/js/",
+			"sm",
+			"e67e22",
+			"0",
+			"spinnerNode",
+			"md",
+			"60",
+			"-only",
+			"bar-",
+			"h3",
+			"520px",
+			"modalBtn",
+			"ModalButton",
+			"pit",
+			"souce",
+			"2",
+			"'editObj' : null,",
+			"editObj",
+			"elem",
+			"rendered",
+			"var",
+			"obj_Recipe",
+			"showModal",
+			"Update",
+			"editObj",
+			"closeModal",
+			"document.",
+			"editRecipe",
+			"state",
+			"editRecipe",
+			"description",
+			"editRecipe",
+			"edit",
+			"getElementById",
+			"btnClick",
+			"fadeInUp",
+			"For",
+			"saveRecipe",
+			"fadeInDown",
+			"flash",
+			"rollIn",
+			"addRecipe",
+			"edit",
+			"256",
+			"128",
+			"0",
+			"200",
+			"style",
+			"x",
+			"lastname",
+			"defaultValue=\"\"",
+			"wrapper_modal",
+			"my_modal",
+			"obj_Recipe",
+			"renderInputs",
+			"addRecipe",
+			"obj_Recipe",
+			"removeRecipe",
+			"renderImages",
+			"render",
+			"url",
+			"addInputs",
+			"renderInputs",
+			"addInputs",
+			"container",
+			"e.currentTarget.id",
+			"wrapper",
+			"chahed",
+			"recipes",
+			"recipe1",
+			"setState",
+			"i",
+			"var",
+			"'bounceOutLeft')",
+			"'bounceOutLeft'",
+			"list",
+			"List",
+			"list",
+			"%\n",
+			"myModal",
+			"10",
+			"30",
+			"my_modal",
+			"modal",
+			"Ingredients",
+			"div",
+			"$",
+			"fast",
+			"li",
+			"i",
+			"%;",
+			"48",
+			"margin",
+			"↓",
+			"↑",
+			"1",
+			"0",
+			"recent",
+			"recentOrder",
+			"let",
+			"rows",
+			"alltime",
+			"td",
+			"rows",
+			"marginWidth",
+			"panel",
+			"onChange",
+			"byId",
+			"div",
+			"TM_FILENAME",
+			"setInterval",
+			"text",
+			"// methods",
+			"commentList",
+			"CommentForm",
+			"commentForm",
+			"ReactDOM",
+			"console",
+			",",
+			"var",
+			"ReactDOM.render",
+			">\n",
+			"html",
+			"console.log"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			")",
+			"=\"\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7626,
+								7626
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2137.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 23.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "lukaskwkw.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Develop/web/url-shortener/url-shortener.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
