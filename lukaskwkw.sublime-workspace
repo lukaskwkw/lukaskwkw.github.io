@@ -520,10 +520,40 @@
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<meta charset=\"utf-8\">\n	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>Title Page</title>\n\n	<!-- Bootstrap CSS -->\n	<link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\" rel=\"stylesheet\">\n	<!-- <link href=\"vendors/css/bootstrap.min.css\" rel=\"stylesheet\"> -->\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"css/index.css\">\n	\n</head>\n<body>\n\n	<section id=\"about\">\n		<div class=\"container\">\n			<div class=\"row\">\n				<div class=\"col-sm-6\">\n					<h4>HTML5</h4>\n					<div class=\"progress\">\n						<div class=\"progress-bar progress-bar-success progress-bar-striped\" role=\"progressbar\" aria-valuenow=\"40\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 80%\">\n							<span class=\"sr-only\">40%</span>\n						</div>\n					</div>\n\n					<h4>CSS3</h4>\n					<div class=\"progress\">\n						<div class=\"progress-bar progress-bar-success progress-bar-striped\" role=\"progressbar\" aria-valuenow=\"20\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 80%\">\n							<span class=\"sr-only\">20%</span>\n						</div>\n					</div>\n\n					<h4>JavaScript</h4>\n					<div class=\"progress\">\n						<div class=\"progress-bar progress-bar-success progress-bar-striped\" role=\"progressbar\" aria-valuenow=\"60\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 80%\">\n							<span class=\"sr-only\">60%</span>\n						</div>\n					</div>\n\n					<h4>Node.js/Express</h4>\n					<div class=\"progress\">\n						<div class=\"progress-bar progress-bar-success progress-bar-striped\" role=\"progressbar\" aria-valuenow=\"80\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 60%\">\n							<span class=\"sr-only\">80%</span>\n						</div>\n					</div>\n\n					<h4>MongoDB</h4>\n					<div class=\"progress\">\n						<div class=\"progress-bar progress-bar-success progress-bar-striped\" role=\"progressbar\" aria-valuenow=\"80\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 60%\">\n							<span class=\"sr-only\">60%</span>\n						</div>\n					</div>	\n				</div>\n				<div class=\"col-sm-6\">\n					<div id=\"slider\">\n						<div class=\"slider-main\">\n							<div id=\"circular3dG\">\n								<div id=\"circular3d_1G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_2G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_3G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_4G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_5G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_6G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_7G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_8G\" class=\"circular3dG\"></div>\n							</div>\n						</div>\n						<div class=\"slider-content\">		\n							<img class=\"slider-img-data\" data-src=\"images/tiwtchTv2-crop.png\">\n							<img class=\"slider-img-data\" data-src=\"images/wikisearch-list1-crop.png\">\n							<img class=\"slider-img-data\" data-src=\"images/simongame-crop.png\">\n							<img class=\"slider-img-data\" data-src=\"images/tictactoe2-crop.png\">\n						</div>\n					</div>\n				</div>\n			</div>\n		</div>\n\n		<div class=\"check-portfolio\">\n			<h3><!-- Check my portfolio --></h3>\n			<button type=\"button\" class=\"btn btn-info btn-lg\">Portfolio</button>\n		</div>\n	</section>\n\n	<section id=\"portfolio\">\n		<!-- <h1>Portfolio</h1> -->\n\n		<div class=\"row\">\n			<div class=\"container\">\n\n				<div class=\"col-sm-6 col-md-4\">\n					<figure class=\"snip1165\">\n						<img src=\"images/fcc-story-viewer-crop.png\" alt=\"sample62\"/>\n						<figcaption>\n							<h3><span>Camper News Layout</span></h3>\n							<p>Simple camper news redesing. Ajax, BS3</p>\n							<div class=\"icons\">\n								<a href=\"#\"><i class=\"ion-social-octocat\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-twitter-outline\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-vimeo-outline\"></i></a>\n							</div>\n						</figcaption>\n					</figure>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<figure class=\"snip1165\">\n						<img src=\"images/pomodoro-clock2-crop.png\" alt=\"sample62\"/>\n						<figcaption>\n							<h3><span>Pomodoro Clock</span></h3>\n							<p>Simple pomodoro timer with customizable time breaks and sessions lengths.</p>\n							<div class=\"icons\">\n								<a href=\"#\"><i class=\"ion-social-reddit-outline\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-twitter-outline\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-vimeo-outline\"></i></a>\n							</div>\n						</figcaption>\n					</figure>\n				</div>\n\n\n\n				<div class=\"col-sm-6 col-md-4\">\n					<figure class=\"snip1165\">\n						<img src=\"images/random-quote-machine2-crop.png\" alt=\"sample62\"/>\n						<figcaption>\n							<h3><span>Random Quote Generator</span></h3>\n							<p>Generate random quote.</p>\n							<div class=\"icons\">\n								<a href=\"#\"><i class=\"ion-social-reddit-outline\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-twitter-outline\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-vimeo-outline\"></i></a>\n							</div>\n						</figcaption>\n					</figure>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<figure class=\"snip1165\">\n						<img src=\"images/simongame-crop.png\" alt=\"sample62\"/>\n						<figcaption>\n							<h3><span>Simon-game</span></h3>\n							<p>Simon game. Created using SCSS. RWD</p>\n							<div class=\"icons\">\n								<a href=\"#\"><i class=\"ion-social-octocat\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-twitter-outline\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-vimeo-outline\"></i></a>\n							</div>\n						</figcaption>\n					</figure>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<figure class=\"snip1165\">\n						<img src=\"images/weatherapp2-crop.png\" alt=sample62/>\n						<figcaption>\n							<h3><span>Weather App</span></h3>\n							<p>Calculator with order of operations. Javascript, jQuery, BS3</p>\n							<div class=\"icons\">\n								<a href=\"#\"><i class=\"ion-social-octocat\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-twitter-outline\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-vimeo-outline\"></i></a>\n							</div>\n						</figcaption>\n					</figure>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<figure class=\"snip1165\">\n						<img src=\"images/tictactoe2-crop.png\" alt=\"sample62\"/>\n						<figcaption>\n							<h3><span>Tic-tac-toe</span></h3>\n							<p>Simple tic-tac-toe game with minimax algorithm. Created using SCSS, BS3</p>\n							<div class=\"icons\">\n								<a href=\"#\"><i class=\"ion-social-octocat\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-twitter-outline\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-vimeo-outline\"></i></a>\n							</div>\n						</figcaption>\n					</figure>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<figure class=\"snip1165\">\n						<img src=\"images/tiwtchTv2-crop.png\" alt=\"sample62\"/>\n						<figcaption>\n							<h3><span>Twitch Status</span></h3>\n							<p>View status of twitch streamers and search by name. Created using SCSS, AJAX, twitch API, BS3</p>\n							<div class=\"icons\">\n								<a href=\"#\"><i class=\"ion-social-octocat\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-twitter-outline\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-vimeo-outline\"></i></a>\n							</div>\n						</figcaption>\n					</figure>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<figure class=\"snip1165\">\n						<img src=\"images/calc2-crop.png\" alt=\"sample62\"/>\n						<figcaption>\n							<h3><span>Calculator</span></h3>\n							<p>Simple weather app. Display weather by your location. Weahter from openweathermap.com. Icons from weather-icons. Created using SCSS, AJAX, openweathermap API, jQuery.</p>\n							<div class=\"icons\">\n								<a href=\"#\"><i class=\"ion-social-reddit-outline\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-twitter-outline\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-vimeo-outline\"></i></a>\n							</div>\n						</figcaption>\n					</figure>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<figure class=\"snip1165\">\n						<img src=\"images/wikisearch-bar-crop.png\" alt=\"sample62\"/>\n						<figcaption>\n							<h3><span>Wikipedia Search</span></h3>\n							<p>Search wikipedia. Get results by typing or generate random search by pressing random button. Created using SCSS, AJAX, wiki API, jQuery.</p>\n							<div class=\"icons\">\n								<a href=\"#\"><i class=\"ion-social-octocat\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-twitter-outline\"></i></a>\n								<a href=\"#\"> <i class=\"ion-social-vimeo-outline\"></i></a>\n							</div>\n						</figcaption>\n					</figure>\n				</div>\n			</div>\n		</div>\n	</section>\n\n	<section id=\"contact\">\n		<div class=\"row\">\n			<div class=\"container\">\n\n				<!-- <h2>Connect with me: lukaskwkw@gmail.com</h2></div> -->\n				<div class=\"col-sm-offset-4 col-sm-4\">\n\n					<div class=\"btn-group\">\n						<a target='_blank' href=\"https://twitter.com/lukas_kwiecien\" class=\"btn btn-default btn-lg btn-block\"><i class=\"fa fa-twitter\"></i> Twitter</a>\n						<a target='_blank' href=\"https://github.com/lukaskwkw\" class=\"btn btn-default btn-lg btn-block\"><i class=\"fa fa-github\"></i>     Github</a>\n						<a target='_blank' href=\"https://pl.linkedin.com/pub/łukasz-kwiecień/109/262/56\" class=\"btn btn-default btn-lg btn-block\"><i class=\"fa fa-linkedin-square\"></i> Linkedin</a>\n						<a target='_blank' href=\"http://freecodecamp.com/lukaskwkw\" class=\"btn btn-default btn-lg btn-block\"><i class=\"fa fa-fire\"></i> freeCodeCamp</a>\n					</div>\n\n				</div>\n			</div>\n		</section>\n\n		<script type=\"text/javascript\" src=\"js/bundle.js\"></script>\n	</body>\n	</html>\n",
 			"file": "index.html",
+			"file_size": 8891,
+			"file_write_time": 130976138908203378,
 			"settings":
 			{
-				"buffer_size": 8574,
+				"buffer_size": 9418,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n	<meta charset=\"utf-8\">\n	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n	<title>Title Page</title>\n\n	<!-- Bootstrap CSS -->\n	<link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css\" rel=\"stylesheet\">\n	<!-- <link href=\"vendors/css/bootstrap.min.css\" rel=\"stylesheet\"> -->\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"css/index.css\">\n	\n</head>\n<body>\n\n	<section id=\"about\">\n		<div class=\"container\">\n			<div class=\"row\">\n				<div class=\"col-sm-6\">\n					<h4>HTML5</h4>\n					<div class=\"progress\">\n						<div class=\"progress-bar progress-bar-success progress-bar-striped\" role=\"progressbar\" aria-valuenow=\"40\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 80%\">\n							<span class=\"sr-only\">40%</span>\n						</div>\n					</div>\n\n					<h4>CSS3</h4>\n					<div class=\"progress\">\n						<div class=\"progress-bar progress-bar-success progress-bar-striped\" role=\"progressbar\" aria-valuenow=\"20\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 80%\">\n							<span class=\"sr-only\">20%</span>\n						</div>\n					</div>\n\n					<h4>JavaScript</h4>\n					<div class=\"progress\">\n						<div class=\"progress-bar progress-bar-success progress-bar-striped\" role=\"progressbar\" aria-valuenow=\"60\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 80%\">\n							<span class=\"sr-only\">60%</span>\n						</div>\n					</div>\n\n					<h4>Node.js/Express</h4>\n					<div class=\"progress\">\n						<div class=\"progress-bar progress-bar-success progress-bar-striped\" role=\"progressbar\" aria-valuenow=\"80\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 60%\">\n							<span class=\"sr-only\">80%</span>\n						</div>\n					</div>\n\n					<h4>MongoDB</h4>\n					<div class=\"progress\">\n						<div class=\"progress-bar progress-bar-success progress-bar-striped\" role=\"progressbar\" aria-valuenow=\"80\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"width: 60%\">\n							<span class=\"sr-only\">60%</span>\n						</div>\n					</div>	\n				</div>\n				<div class=\"col-sm-6\">\n					<div id=\"slider\">\n						<div class=\"slider-main\">\n							<div id=\"circular3dG\">\n								<div id=\"circular3d_1G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_2G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_3G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_4G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_5G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_6G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_7G\" class=\"circular3dG\"></div>\n								<div id=\"circular3d_8G\" class=\"circular3dG\"></div>\n							</div>\n						</div>\n						<div class=\"slider-content\">		\n							<img class=\"slider-img-data\" data-src=\"images/tiwtchTv2-crop.png\">\n							<img class=\"slider-img-data\" data-src=\"images/wikisearch-list1-crop.png\">\n							<img class=\"slider-img-data\" data-src=\"images/simongame-crop.png\">\n							<img class=\"slider-img-data\" data-src=\"images/tictactoe2-crop.png\">\n						</div>\n					</div>\n				</div>\n			</div>\n		</div>\n\n		<div class=\"check-portfolio\">\n			<h3><!-- Check my portfolio --></h3>\n			<button type=\"button\" class=\"btn btn-info btn-lg\">Portfolio</button>\n		</div>\n	</section>\n\n	<section id=\"portfolio\">\n		<!-- <h1>Portfolio</h1> -->\n\n		<div class=\"row\">\n			<div class=\"container\">\n				<div class=\"col-sm-6 col-md-4\">\n					<a href=\"http://codepen.io/lukaskwkw/debug/dYqLqY\" target=\"_blank\"><div class=\"thumbnail\">\n						<div class=\"pic\">\n							<img src=\"images/calc2-crop.png\" width=\"480\" height=\"200\" alt=\"\" class=\"img-responsive\">\n\n							<span class=\"fa fa-fire\"></span>\n						</div>\n						<div class=\"caption\">\n							<h4>Calculator</h4>\n							<p>Calculator with order of operations. Javascript, jQuery, BS3</p>\n						</div>\n					</div></a>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<a href=\"http://codepen.io/lukaskwkw/debug/zvVvZa/\" target=\"_blank\"><div class=\"thumbnail\">\n						<div class=\"pic\">\n							<img class=\"img-responsive\" src=\"images/fcc-story-viewer-crop.png\" alt=\"\">\n							<span class=\"fa fa-fire\"></span>\n						</div>\n						<div class=\"caption\">\n							<h4>Camper News Layout</h4>\n							<p>Simple camper news redesing. Ajax, BS3</p>\n						</div>\n					</div></a>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<a href=\"http://codepen.io/lukaskwkw/debug/JYBpBO/\" target=\"_blank\"><div class=\"thumbnail\">\n						<div class=\"pic\">\n							<img class=\"img-responsive\" src=\"images/pomodoro-clock2-crop.png\" alt=\"\" /><span class=\"fa fa-fire\"></span>\n						</div>\n						<div class=\"caption\">\n							<h4>Pomodoro Clock</h4>\n							<p>Simple pomodoro timer with customizable time breaks and sessions lengths.</p>\n						</div>\n					</div></a>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n	<a href=\"http://codepen.io/lukaskwkw/debug/epKoPY\" target=\"_blank\"><div class=\"thumbnail\">\n		<div class=\"pic\">\n			<img src=\"images/random-quote-machine2-crop.png\" alt=\"\" class=\"img-responsive\"><span class=\"fa fa-fire\"></span>\n		</div>\n		<div class=\"caption\">\n			<h4>Random Quote Generator</h4>\n			<p>Generate random quote.</p>\n		</div>\n	</div></a>\n</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<a href=\"http://codepen.io/lukaskwkw/debug/KVpxQz/\" target=\"_blank\"><div class=\"thumbnail\">\n						<div class=\"pic\">\n							<img class=\"img-responsive\" src=\"images/simongame-crop.png\" alt=\"\"><span class=\"fa fa-fire\"></span>\n						</div>\n						<div class=\"caption\">\n							<h4>Simon-game</h4>\n							<p>Simon game. Created using SCSS. RWD</p>\n						</div>\n					</div></a>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<a href=\"http://s.codepen.io/lukaskwkw/debug/dGyRwj\" target=\"_blank\"><div class=\"thumbnail\">\n						<div class=\"pic\">\n							<img class=\"img-responsive\" src=\"images/tictactoe2-crop.png\" alt=\"\" /><span class=\"fa fa-fire\"></span>\n						</div>\n						<div class=\"caption\">\n							<h4>Tic-tac-toe</h4>\n							<p>Simple tic-tac-toe game with minimax algorithm. Created using SCSS, BS3</p>\n						</div>\n					</div></a>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<a href=\"http://codepen.io/lukaskwkw/debug/rObvbW\" target=\"_blank\"><div class=\"thumbnail\">\n						<div class=\"pic\">\n							<img class=\"img-responsive\" src=\"images/tiwtchTv2-crop.png\" alt=\"\" /><span class=\"fa fa-fire\"></span>\n						</div>\n						<div class=\"caption\">\n							<h4>Twitch Status</h4>\n							<p>View status of twitch streamers and search by name. Created using SCSS, AJAX, twitch API, BS3</p>\n						</div>\n					</div></a>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<a href=\"http://codepen.io/lukaskwkw/debug/meoENx\" target=\"_blank\"><div class=\"thumbnail\">\n						<div class=\"pic\">\n							<img class=\"img-responsive\" src=\"images/weatherapp2-crop.png\" alt=\"\" /><span class=\"fa fa-fire\"></span>\n						</div>\n						<div class=\"caption\">\n							<h4>Weather App</h4>\n							<p>Simple weather app. Display weather by your location. Weahter from openweathermap.com. Icons from weather-icons. Created using SCSS, AJAX, openweathermap API, jQuery.</p>\n						</div>\n					</div></a>\n				</div>\n\n				<div class=\"col-sm-6 col-md-4\">\n					<a href=\"http://codepen.io/lukaskwkw/debug/GpVpNb\" target=\"_blank\"><div class=\"thumbnail\">\n						<div class=\"pic\">\n							<img class=\"img-responsive\" src=\"images/wikisearch-bar-crop.png\" alt=\"\" /><span class=\"fa fa-fire\"></span>\n						</div>\n						<div class=\"caption\">\n							<h4>Wikipedia Search</h4>\n							<p>Search wikipedia. Get results by typing or generate random search by pressing random button. Created using SCSS, AJAX, wiki API, jQuery.</p>\n						</div>\n					</div></a>\n				</div>\n			</div>\n		</div>\n	</section>\n\n	<section id=\"contact\">\n		<div class=\"row\">\n			<div class=\"container\">\n\n			<!-- <h2>Connect with me: lukaskwkw@gmail.com</h2></div> -->\n					<div class=\"col-sm-offset-4 col-sm-4\">\n\n						<div class=\"btn-group\">\n							<a target='_blank' href=\"https://twitter.com/lukas_kwiecien\" class=\"btn btn-default btn-lg btn-block\"><i class=\"fa fa-twitter\"></i> Twitter</a>\n							<a target='_blank' href=\"https://github.com/lukaskwkw\" class=\"btn btn-default btn-lg btn-block\"><i class=\"fa fa-github\"></i>     Github</a>\n							<a target='_blank' href=\"https://pl.linkedin.com/pub/łukasz-kwiecień/109/262/56\" class=\"btn btn-default btn-lg btn-block\"><i class=\"fa fa-linkedin-square\"></i> Linkedin</a>\n							<a target='_blank' href=\"http://freecodecamp.com/lukaskwkw\" class=\"btn btn-default btn-lg btn-block\"><i class=\"fa fa-fire\"></i> freeCodeCamp</a>\n						</div>\n\n					</div>\n			</div>\n		</section>\n\n		<script type=\"text/javascript\" src=\"js/bundle.js\"></script>\n	</body>\n	</html>\n",
+			"file": "_index.html",
+			"file_size": 8576,
+			"file_write_time": 130976114871030554,
+			"settings":
+			{
+				"buffer_size": 8565,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/index.scss",
+			"settings":
+			{
+				"buffer_size": 7110,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/index.js",
+			"settings":
+			{
+				"buffer_size": 1450,
 				"line_ending": "Unix"
 			}
 		}
@@ -571,13 +601,13 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 159.0,
 		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"jso",
-				"Set Syntax: JSON"
+				"swap",
+				"BracketHighlighter: Swap Brackets"
 			],
 			[
 				"rein",
@@ -586,6 +616,10 @@
 			[
 				"babel",
 				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
 			],
 			[
 				"es6",
@@ -1002,8 +1036,19 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/lk/Develop/myPage/lukaskwkw.github.io",
+		"/home/lk/Develop/myPage/lukaskwkw.github.io/css",
+		"/home/lk/Develop/myPage/lukaskwkw.github.io/js"
+	],
 	"file_history":
 	[
+		"/home/lk/Develop/myPage/lukaskwkw.github.io/_index.html",
+		"/home/lk/Develop/myPage/lukaskwkw.github.io/.gitignore",
+		"/home/lk/Develop/myPage/lukaskwkw.github.io/package.json",
+		"/home/lk/Develop/myPage/lukaskwkw.github.io/css/index.scss",
+		"/home/lk/Develop/myPage/lukaskwkw.github.io/js",
 		"/usr/lib/node_modules/stream-adventure/problems/duplexer/solution.js",
 		"/home/lk/Develop/nodeschool/stream-adventures/11.js",
 		"/home/lk/Develop/nodeschool/stream-adventures/12.js",
@@ -1126,12 +1171,7 @@
 		"/home/lk/Develop/web/voteApp/app/config/auth.js",
 		"/home/lk/Develop/web/learn_mongo/p1.js",
 		"/home/lk/Develop/web/voteApp/node_modules/mongoose/website.js",
-		"/home/lk/Develop/web/voteApp/node_modules/mongodb/package.json",
-		"/home/lk/Develop/web/voteApp/.gitignore",
-		"/home/lk/Develop/web/voteApp/README.md",
-		"/home/lk/Develop/web/learn_mongo/p2.js",
-		"/home/lk/Develop/web/learn_mongo/output.json",
-		"/home/lk/Develop/web/learn_mongo/p7.js"
+		"/home/lk/Develop/web/voteApp/node_modules/mongodb/package.json"
 	],
 	"find":
 	{
@@ -1149,6 +1189,29 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"				<div class=\"col-sm-6 col-md-4\">",
+			"<div class=\"col-sm-6 col-md-4\">",
+			"<p>\n								Sometimes I think the surest sign that intelligent life exists elsewhere in the universe is that none of it has tried to contact us.\n							</p>",
+			"Calculator",
+			"<span> ",
+			"\n							<h4>",
+			"n\">\n			<h4>",
+			"\n			<h4>",
+			"\n							<h4>",
+			"<h4>",
+			"ion-social-reddit-outline",
+			"SNIPPETS",
+			"<img src=\"",
+			" src=\"images",
+			"src=\"images/",
+			"<img src=\"images",
+			"<img src=\"images/",
+			"<div class=\"col-sm-6 col-md-4\">",
+			"				<div class=\"col-sm-6 col-md-4\">",
+			"<div class=\"col-sm-6 col-md-4\">",
+			"Portfolio",
+			"Porftolio",
+			"public/",
 			"null",
 			"arg",
 			"\\n",
@@ -1253,30 +1316,7 @@
 			"recent",
 			"recentOrder",
 			"let",
-			"rows",
-			"alltime",
-			"td",
-			"rows",
-			"marginWidth",
-			"panel",
-			"onChange",
-			"byId",
-			"div",
-			"TM_FILENAME",
-			"setInterval",
-			"text",
-			"// methods",
-			"commentList",
-			"CommentForm",
-			"commentForm",
-			"ReactDOM",
-			"console",
-			",",
-			"var",
-			"ReactDOM.render",
-			">\n",
-			"html",
-			"console.log"
+			"rows"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1305,15 +1345,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8574,
+						"buffer_size": 9418,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7626,
-								7626
+								4450,
+								4414
 							]
 						],
 						"settings":
@@ -1378,14 +1418,316 @@
 								"bh_regex_close",
 								"bh_regex_content"
 							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2137.0,
+						"translation.y": 1525.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3736,
+								3736
+							],
+							[
+								4185,
+								4185
+							],
+							[
+								4658,
+								4658
+							],
+							[
+								5063,
+								5063
+							],
+							[
+								5474,
+								5474
+							],
+							[
+								5938,
+								5938
+							],
+							[
+								6423,
+								6423
+							],
+							[
+								6981,
+								6981
+							],
+							[
+								7517,
+								7517
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1327.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/index.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								851,
+								851
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								892,
+								892
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
