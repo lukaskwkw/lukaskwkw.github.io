@@ -233,9 +233,34 @@ body {
     }
   }
 
- ////////////
- //FOOTER  //
- ////////////
+
+////////////////////
+//CONTACT SECTION //
+////////////////////
+
+#contact {
+	    background-color: darkslategrey;
+}
+
+  .btn-group .btn
+  {
+    text: black;
+    display:inline-block;
+    border: 0;
+    position: relative;
+    transition: all 200ms ease-in;
+
+  }
+  .btn-group .btn:hover
+  {
+    background-color: #e67e22;
+    color: white;
+    z-index: 2;
+  }
+
+////////////
+//FOOTER  //
+////////////
 
    .panel-footer {
     background-color: #FFF-;
