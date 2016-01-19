@@ -225,10 +225,10 @@ figure.snip1165 p {
   font-size: 1em; }
 
 figure.snip1165 img {
-  cursor: pointer;
-  display: block; }
+  cursor: pointer; }
 
 figure.snip1165 a {
-  opacity: 0.95; }
+  opacity: 0.95;
+  display: block; }
 
 /*# sourceMappingURL=index.css.map */
