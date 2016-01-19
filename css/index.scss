@@ -150,20 +150,25 @@ figure.snip1165.hover img {
 ///////////////
 
 nav {
-  font-family: Gloria Hallelujah;
+  font-family: sans-serif;
 }
 .navbar{
   margin: 0;
 }
+
+.navbar-right {
+	margin-right: 0;
+}
+
 section {
   padding-bottom: 50px;
 }
 
-$bgcSection: #ecf0f1;
-$bgcHome: #ecf0f1;
-.socialmedia {
-  text-align: center;
-}
+// $bgcSection: #ecf0f1;
+// $bgcHome: #ecf0f1;
+// .socialmedia {
+//   text-align: center;
+// }
 
 
 
@@ -239,7 +244,7 @@ body {
 ////////////////////
 
 #contact {
-	    background-color: darkslategrey;
+	    background-color: #FAFAFA;
 }
 
   .btn-group .btn
@@ -285,3 +290,10 @@ figure.snip1165 h3{
 figure.snip1165 p {
 	font-size: 1.3em;
 }
+figure.snip1165 img{
+	cursor: pointer;
+}
+
+figure.snip1165 a {
+    opacity: 0.95;
+    }

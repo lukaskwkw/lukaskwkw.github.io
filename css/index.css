@@ -134,16 +134,16 @@ figure.snip1165.hover img {
   transform: scale(1.1); }
 
 nav {
-  font-family: Gloria Hallelujah; }
+  font-family: sans-serif; }
 
 .navbar {
   margin: 0; }
 
+.navbar-right {
+  margin-right: 0; }
+
 section {
   padding-bottom: 50px; }
-
-.socialmedia {
-  text-align: center; }
 
 body {
   padding-top: 50px;
@@ -195,7 +195,7 @@ body {
       top: 0; } }
 
 #contact {
-  background-color: darkslategrey; }
+  background-color: #FAFAFA; }
 
 .btn-group .btn {
   text: black;
@@ -224,5 +224,11 @@ figure.snip1165 h3 {
 
 figure.snip1165 p {
   font-size: 1.3em; }
+
+figure.snip1165 img {
+  cursor: pointer; }
+
+figure.snip1165 a {
+  opacity: 0.95; }
 
 /*# sourceMappingURL=index.css.map */
