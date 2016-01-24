@@ -8,5 +8,8 @@
   },
   "scripts": {
     "start": "watchify js/index.js -v -t babelify -o js/bundle.js"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
   }
 }

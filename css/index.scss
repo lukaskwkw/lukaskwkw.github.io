@@ -19,7 +19,7 @@ figure.snip1165 {
   overflow: hidden;
   margin: 10px 1%;
   min-width: 220px;
-  max-width: 310px;
+  max-width: 100%; //////////
   width: 100%;
   background: #000000;
   color: #333;
@@ -35,7 +35,9 @@ figure.snip1165 * {
 figure.snip1165 img {
   max-width: 100%;
   vertical-align: top;
+  cursor: pointer; //////////
 }
+
 figure.snip1165 figcaption {
   position: relative;
   background-color: #ffffff;
@@ -45,7 +47,7 @@ figure.snip1165 h3 {
   position: absolute;
   bottom: 100%;
   text-transform: uppercase;
-  padding: 10px 25px;
+  padding: 0; ///////////
   border-radius: 0 5px 0 0;
   margin: 0;
   left: 0;
@@ -57,7 +59,7 @@ figure.snip1165 h3 span {
   font-weight: 800;
 }
 figure.snip1165 p {
-  font-size: 0.8em;
+  font-size: 1em; //////////
   font-weight: 500;
   text-align: left;
   margin: 0;
@@ -85,10 +87,13 @@ figure.snip1165 i:hover {
   background-color: #000000;
   color: white !important;
 }
-figure.snip1165 a {
-  opacity: 0.8;
-  display: inline-block;
-}
+
+/////////////
+figure.snip1165>a {
+    opacity: 0.95;
+  display: block;
+    }
+//////////////////
 figure.snip1165 a:hover {
   opacity: 1;
 }
@@ -158,6 +163,11 @@ nav {
 
 .navbar-right {
 	margin-right: 0;
+}
+
+//:not(.in):not(.collapsing) are for prevent padding on mobile
+.navbar-fixed-top :not(.in):not(.collapsing) .navbar-right {
+  padding-right: 120px;
 }
 
 section {
@@ -230,6 +240,10 @@ body {
     }
   }
 
+#microservices {
+  padding-top: 120px;
+  padding-bottom: 60px;
+}
 
 ////////////////////
 //CONTACT SECTION //
