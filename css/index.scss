@@ -2,12 +2,12 @@
 //LITTLE SNIPPETS //
 ////////////////////
 
-/* Included color classes.. 
-	.red 
-	.blue 
+/* Included color classes..
+	.red
+	.blue
 	.green
 	.orange
-	.navy 
+	.navy
 */
 /* Icon set - http://ionicons.com/ */
 @import url(http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
@@ -42,6 +42,8 @@ figure.snip1165 figcaption {
   position: relative;
   background-color: #ffffff;
   padding: 20px 25px 50px;
+  max-height: 105px;
+  overflow-y: scroll;
 }
 figure.snip1165 h3 {
   position: absolute;

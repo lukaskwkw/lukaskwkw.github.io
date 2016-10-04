@@ -1,18 +1,20 @@
-/* Included color classes.. 
-	.red 
-	.blue 
+/* Included color classes..
+	.red
+	.blue
 	.green
 	.orange
-	.navy 
+	.navy
 */
 /* Icon set - http://ionicons.com/ */
 @import url(http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,800);
 figure.snip1165 {
+  max-height: 290px;
+  overflow-y: scroll;
+  overflow-x: hidden;
   font-family: 'Raleway', Arial, sans-serif;
   position: relative;
   float: left;
-  overflow: hidden;
   margin: 10px 1%;
   min-width: 220px;
   max-width: 100%;
@@ -36,6 +38,8 @@ figure.snip1165 img {
 figure.snip1165 figcaption {
   position: relative;
   background-color: #ffffff;
+  /* max-height: 105px; */
+  /* overflow-y: scroll; */
   padding: 20px 25px 50px; }
 
 figure.snip1165 h3 {
@@ -62,8 +66,9 @@ figure.snip1165 p {
 
 figure.snip1165 .icons {
   position: absolute;
-  bottom: 0;
-  right: 25px; }
+  right: 0px;
+  top: -10px;
+}
 
 figure.snip1165 i {
   margin: 0 2px;
